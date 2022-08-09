@@ -34,4 +34,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/pankajsharma8221)  
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
