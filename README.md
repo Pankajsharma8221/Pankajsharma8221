@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/pankaj sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pankaj sharma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pankaj sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj sharma" height="30" width="40" /></a>
-<a href="https://fb.com/pankaj saraswat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pankaj saraswat" height="30" width="40" /></a>
-<a href="https://instagram.com/pankajfromgharaunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajfromgharaunda" height="30" width="40" /></a>
+<a href="https://codepen.io/Pakajsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pankaj sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pankaj-sharma-62ba8b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj sharma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009343182358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pankaj saraswat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pankajpandit82210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajfromgharaunda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
