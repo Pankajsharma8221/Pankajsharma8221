@@ -36,7 +36,11 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
 </div>  
-
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
   
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
