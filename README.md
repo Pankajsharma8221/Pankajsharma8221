@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **SpringBoot**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **JavaScript,MERN Stack**
+- 💬 Ask me about **SpringBoot ,Hybernate**
 
 - 📫 How to reach me **pankajsaraswatsharma@gmail.com**
 
@@ -34,20 +34,3 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
 </div>  
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma8221&theme=tokyonight" alt="pankajsharma8221" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsharma8221&show_icons=true&locale=en" alt="pankajsharma8221" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma8221&" alt="pankajsharma8221" /></p>
-
-
-![Profile views](https://gpvc.arturio.dev/pankajsharma8221)  
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
