@@ -40,9 +40,9 @@
 <p align="center">
   <a href="https://Pankajsharma8221.dev/">
 <!--    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" /> - -->
-	#Stats card for later use
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSharma8221&theme=cobalt&layout=compact" /> 
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=dark&hide_border=true" />
+<!-- 	#Stats card for later use -->
+<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSharma8221&theme=cobalt&layout=compact" /> 
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=dark&hide_border=true" />
     
   </a>
 </p>
