@@ -60,6 +60,9 @@
 
 
 [![Pankaj Sharma' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pankajsharma8221&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://Pankajsharma8221.dev)
+	![Profile views](https://gpvc.arturio.dev/Pankajsharma8221)  
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
 	
