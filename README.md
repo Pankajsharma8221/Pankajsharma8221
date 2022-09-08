@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsharma8221&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsharma8221" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankajsharma8221&label=Profile%20views&color=0e75b6&style=flat" alt="Pankajsharma8221" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -38,20 +38,20 @@
 </div>  
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsharma8221&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pankajsharma8221&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajsharma8221&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pankajsharma8221&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajsharma8221&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Pankajsharma8221&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
   
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-![Profile views](https://gpvc.arturio.dev/pankajsharma8221)  
+![Profile views](https://gpvc.arturio.dev/Pankajsharma8221)  
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
