@@ -27,6 +27,7 @@
 <a href="https://www.linkedin.com/in/pankaj-sharma-62ba8b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj sharma" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009343182358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pankaj saraswat" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pankajpandit82210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajfromgharaunda" height="30" width="40" /></a>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
