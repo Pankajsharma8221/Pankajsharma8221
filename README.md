@@ -38,11 +38,6 @@
 </div>  
 
   
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-![Profile views](https://gpvc.arturio.dev/Pankajsharma8221)  
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
