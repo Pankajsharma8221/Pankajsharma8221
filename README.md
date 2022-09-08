@@ -36,7 +36,7 @@
 </div>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsharma8221&show_icons=true&locale=en&layout=compact" alt="pankajsharma8221" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatwarBHAI&theme=tokyonight" alt="natwarbhai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsharma8221&show_icons=true&locale=en" alt="pankajsharma8221" /></p>
 
