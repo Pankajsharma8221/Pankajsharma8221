@@ -41,10 +41,7 @@
 
 </div>  
 <h2 align="center">📊 My Github Stats<h2>
-| Top Languages | Contribution Graph  |
-| :--- | --- |
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajsharma8221&show_icons=true&theme=cobalt" alt="Pankaj's Language stats" /> | [![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pankajsharma8221&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Pankajsharma8221/github-readme-activity-graph) |
-</div> 
 	
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
 
