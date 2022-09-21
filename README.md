@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pankajsaraswatsharma@gmail.com**
 
-- 📫 My Portfolio **https://heartfelt-kleicha-af3dd0.netlify.app/**
+- 📫 My Portfolio **https://pankajsharma8221.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,10 +43,10 @@
 <h2 align="center">📊 My Github Stats<h2>
 <p align="center">
   <a href="https://Pankajsharma8221.dev/">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" /> 
+<!--    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />  -->
 <!--  	#Stats card for later use  -->
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSharma8221&theme=cobalt&layout=compact" /> 
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=dark&hide_border=true" />
     
   </a>
 </p>
