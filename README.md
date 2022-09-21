@@ -40,17 +40,20 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 
 </div>  
-<h2 align="center">📊 My Github Stats<h2>
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajsharma8221&show_icons=true&theme=cobalt" alt="Pankaj's Language stats" /> | [![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pankajsharma8221&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Pankajsharma8221/github-readme-activity-graph) |
+
+ | Github Stats | Current Strek  |
+| --- | --- |
+| ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankajsharma8221&theme=tokyonight)](https://git.io/streak-stats) |
+
+
+<!-- Theme color -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 	
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
 
 
 
-[![Pankaj Sharma' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pankajsharma8221&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://Pankajsharma8221.dev)
-	![Profile views](https://gpvc.arturio.dev/Pankajsharma8221)  
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
 	
