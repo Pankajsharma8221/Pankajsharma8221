@@ -53,17 +53,10 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Pankajsharma8221) 
 
-	
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
-
-
-
-
-
-
-
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
 	
+	
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>	
 
 
 
