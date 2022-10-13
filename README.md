@@ -58,8 +58,8 @@
 ![GitHub metrics](https://metrics.lecoq.io/Pankajsharma8221) 
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
-	
-![toupload](https://user-images.githubusercontent.com/101162398/195606492-722b3891-404c-47e5-ad55-25cd4dac4563.gif)
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
