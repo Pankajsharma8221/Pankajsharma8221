@@ -14,8 +14,12 @@
 - 💬 Ask me about **SpringBoot ,Hybernate**
 
 - 📫 How to reach me **pankajsaraswatsharma@gmail.com**
+<!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio](https://pankajsharma8221.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📫 My Portfolio **https://pankajsharma8221.github.io/**
+
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/11WvmUFW4G9AW-KmdULpCpwi4p0QFuTLf/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
