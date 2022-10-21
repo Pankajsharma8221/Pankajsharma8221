@@ -54,9 +54,14 @@
 | ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pankajsharma8221&theme=tokyonight)](https://git.io/streak-stats) |
 <!-- Theme color -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
 | Top Languages | Contribution Graph  |
 | :--- | --- |
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajsharma8221&show_icons=true&theme=cobalt" alt="Pankaj's Language stats" /> | [![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pankajsharma8221&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/Pankajsharma8221/github-readme-activity-graph) |
+
+<div aling="left">
+  
+<h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/Pankajsharma8221) 
