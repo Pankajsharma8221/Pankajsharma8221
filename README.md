@@ -1,6 +1,6 @@
 <img src="https://promwad.com/sites/default/files/promwad_com_backend_development_banner_1920.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Pankaj Sharma</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India. I'm a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the Java backend stacks. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankajsharma8221&label=Profile%20views&color=0e75b6&style=flat" alt="Pankajsharma8221" /> </p>
