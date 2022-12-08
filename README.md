@@ -49,15 +49,13 @@
 
 </div>  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&hide_border=true&theme=onedark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&hide_border=true&theme=onedark" />
-</p>
+ <p align="center" style="width:70%;margin:auto;" >
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=transparent" />
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=default" />
+    </p>
 
 
-## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajsharma8221&layout=compact&hide_border=true&theme=onedark" />
 
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
