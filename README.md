@@ -35,19 +35,27 @@
 	
 </p>
 
-<h3 align="left">🛠 &nbsp;Tech Stack </h3>
+<h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:</h3>
 
-<div align="left">  
-	
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<p align="center">
+    <img src="https://img.shields.io/badge/java-1572B6?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+    <img src="https://img.shields.io/badge/spring-563D7C?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+    <img src="https://img.shields.io/badge/SpringBoot-38B2AC?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" />
+    <img src="https://img.shields.io/badge/hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate" />   
+    <img src="https://img.shields.io/badge/MySQL-339933?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/maven-CB3837?style=for-the-badge&logo=maven&logoColor=white" alt="maven" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=aws&logoColor=white" alt="aws" />
+    <img src="https://img.shields.io/badge/visual studio code-593D88?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" />
+    <img src="https://img.shields.io/badge/netlify-1572B6?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
+    <img src="https://img.shields.io/badge/swagger-593D88?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" />
 
-</div>  
+</p>
 
  <p align="center" style="width:70%;margin:auto;" >
       <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=transparent" />
@@ -57,14 +65,18 @@
 
 
 
+
+
+| Top Languages | Contribution Graph  |
+| :--- | --- |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajsharma8221&show_icons=true&theme=cobalt" alt="sp Language stats" /> | [![Shashank Pandey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pankajsharma8221)](https://github.com/Pankajsharma8221/github-readme-activity-graph) |
+
+
 <p align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
 
