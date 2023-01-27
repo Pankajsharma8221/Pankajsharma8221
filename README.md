@@ -58,18 +58,11 @@
 </p>
 
  <p align="center" style="width:70%;margin:auto;" >
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&theme=transparent" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pankajsharma8221&show_icons=true&locale=en" alt="Pankajsharma8221" />
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajsharma8221&theme=default" />
     </p>
 
 
-
-
-
-
-| Top Languages | Contribution Graph  |
-| :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajsharma8221&show_icons=true&theme=cobalt" alt="sp Language stats" /> | [![Shashank Pandey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pankajsharma8221)](https://github.com/Pankajsharma8221/github-readme-activity-graph) |
 
 
 <p align="center">
